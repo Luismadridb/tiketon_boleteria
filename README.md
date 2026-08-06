@@ -1,4 +1,4 @@
-# La Boletería — Tiketón
+# La Boletería — Ticketón
 Es una interfaz dinámica inspirada en una boletería de eventos: el catálogo se llena con cartelera real obtenida desde
 la **Discovery API de Ticketmaster**, y el usuario puede emitir reservas sobre esos eventos
 reales desde un formulario con validación y feedback visual de carga.
